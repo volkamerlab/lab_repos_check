@@ -1,10 +1,13 @@
 # Volkamer Lab's repositories check
 
-This is an overview of our published repositories' health:
+This is an overview of our published repositories' status:
 - CI status
 - Documentation status
 - Number of open issues
 - Number of open PRs
+- Code coverage (CodeCov)
+- Conda version
+- License
 
 ## Status
 
