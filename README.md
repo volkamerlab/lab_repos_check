@@ -27,7 +27,7 @@ This is an overview of our published repositories' status:
 
 ## How to add a new repository
 
-We recommend using VS Code and to unwrap words via View > Word wrap (untick); otherwise the Markdown table is hard to read.
+We recommend to use VS Code and to unwrap words via View > Word wrap (untick); otherwise the Markdown table is hard to read.
 
 For a new repository `your_repo`,
 
