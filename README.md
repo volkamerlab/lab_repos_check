@@ -3,11 +3,13 @@
 This is an overview of our published repositories' status:
 - CI status
 - Documentation status
+- CI schedule (automatic CI runs)
 - Number of open issues
 - Number of open PRs
 - Code coverage (CodeCov)
 - Conda version
 - License
+- Main maintainer
 
 ## Status
 
